@@ -1,4 +1,4 @@
-# Conditional Exercises
+# Conditional Exercises - test
 
 For this exercises we are going to create a file called `conditionals.js`. Copy the description of the exercise as a comment into the file and underneath write your JavaScript code.
 
